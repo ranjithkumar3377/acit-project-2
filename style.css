@@ -1,0 +1,16 @@
+
+.heading{
+    background-color: rgba(177, 196, 213, 0.598);
+}
+.bookimage{
+    background-image: url(./images/project2/bookimage.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+.blogimage{
+    position: relative;
+    margin-top: 300px;
+}
+.endpage{
+    background-color: rgba(73, 31, 109, 0.692);
+}
